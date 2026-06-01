@@ -109,5 +109,5 @@ This application is configured for easy deployment on platforms like Render, Ver
 ---
 
 <div align="center">
-  <i>Developed with ❤️ by [Ssr446]</i>
+  <i>Developed with ❤️ by Ssr446</i>
 </div>
